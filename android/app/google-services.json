@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694428440702",
+    "project_id": "typetalks-c6d10",
+    "storage_bucket": "typetalks-c6d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694428440702:android:d6012f775f4ab0053b202f",
+        "android_client_info": {
+          "package_name": "com.example.typetalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694428440702-tvgag17rcso3tvre2v9fgio6qhsruaa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZNp91Za-7H-_YVmLV1O6e5sblb7g9f6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694428440702-tvgag17rcso3tvre2v9fgio6qhsruaa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
